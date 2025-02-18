@@ -6,7 +6,7 @@
 /*   By: abarahho <abarahho@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/26 16:09:14 by abarahho          #+#    #+#             */
-/*   Updated: 2024/09/27 12:16:05 by abarahho         ###   ########.fr       */
+/*   Updated: 2025/02/18 10:20:16 by abarahho         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,9 +38,9 @@ int ft_atoi(char *str)
 	return (sign * nb);
 }
 
-int main(void)
-{
-	char *c = "    ---+--+1234ab567";
-	printf("%d\n", ft_atoi(c));
-	return 0;
-}
+// int main(void)
+// {
+// 	char *c = "    ---+--+1234ab567";
+// 	printf("%d\n", ft_atoi(c));
+// 	return 0;
+// }

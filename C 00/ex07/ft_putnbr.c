@@ -6,7 +6,7 @@
 /*   By: abarahho <abarahho@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/24 08:27:23 by abarahho          #+#    #+#             */
-/*   Updated: 2024/09/27 12:12:28 by abarahho         ###   ########.fr       */
+/*   Updated: 2025/02/18 10:18:09 by abarahho         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,8 +36,8 @@ void	ft_putnbr(int nb)
 		ft_putchar(i + '0');
 }
 
-int	main(void)
-{
-	ft_putnbr(-75362);
-	return(0);
-}
+// int	main(void)
+// {
+// 	ft_putnbr(-75362);
+// 	return(0);
+// }

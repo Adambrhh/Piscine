@@ -6,7 +6,7 @@
 /*   By: abarahho <abarahho@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/16 18:30:03 by abarahho          #+#    #+#             */
-/*   Updated: 2024/09/19 11:25:09 by abarahho         ###   ########.fr       */
+/*   Updated: 2025/02/18 10:19:43 by abarahho         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,13 +32,13 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 
 #include <stdio.h>
 
-int	main(void)
-{
-	char	a[15] = "Git Push-Up!";
-	char	b[15];
+// int	main(void)
+// {
+// 	char	a[15] = "Git Push-Up!";
+// 	char	b[15];
 
-	printf("a = %s, b = %s\n", a, b);
-	ft_strncpy(b, a, 8);
-	printf("a = %s, b = %s\n", a, b);
-	return (0);
-}
+// 	printf("a = %s, b = %s\n", a, b);
+// 	ft_strncpy(b, a, 8);
+// 	printf("a = %s, b = %s\n", a, b);
+// 	return (0);
+// }
